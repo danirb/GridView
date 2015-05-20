@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme" parent="android:Theme.Material">
+        <!-- Customize your theme here. -->
+        <item name="android:colorPrimary">@color/md_red_500</item>
+        <item name="android:colorPrimaryDark">@color/md_red_700</item>
+        <item name="android:colorAccent">@color/md_blue_A200</item>
+        <item name="android:colorControlHighlight">@color/md_red_500_25</item>​
+        <item name="android:colorControlNormal">@color/md_black_1000_50</item>
+        <item name="android:colorForeground">@color/md_black_1000_75</item>
+
+    </style>
+</resources>
